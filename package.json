@@ -21,6 +21,7 @@
     "@angular/router": "~10.0.0",
     "@capacitor/android": "^2.4.5",
     "@capacitor/core": "^2.4.5",
+    "@capacitor/ios": "^2.4.5",
     "@ionic-native/app-center-push": "^5.30.0",
     "@ionic-native/core": "^5.0.0",
     "@ionic-native/splash-screen": "^5.0.0",
